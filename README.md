@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AaronTrelstad&theme=gotham)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AaronTrelstad&theme=gotham)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronTrelstad&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AaronTrelstad&count_private=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AaronTrelstad/AaronTrelstad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
